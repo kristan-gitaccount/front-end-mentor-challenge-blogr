@@ -47,7 +47,7 @@ Above pictures are the screenshots of my solution.
 
 ### What I learned
 
-I learned some new css stuff like transform:transalate and it's difference with position:absolute and i will defenitely use it for my future projects
+I learned some new css stuff like transform:transalate and its difference with position:absolute and i will defenitely use it for my future projects
 
 ```css
 .proud-of-this-css {

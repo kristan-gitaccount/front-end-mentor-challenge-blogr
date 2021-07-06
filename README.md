@@ -59,9 +59,9 @@ I learned some new css stuff like transform:transalate and it's difference with 
 
 ### Useful resources
 
-- [W3schools](https://www.w3schools.com/css/) - This helped me for remembering css syntax and its feature.
+- [W3schools](https://www.w3schools.com/css/) - This helped me for remembering css syntax and its features.
 - [W3schools] https://www.w3schools.com/howto/howto_css_dropdown.asp - this helped me learn css dopdown on hover.
-- [W3schools](https://www.w3schools.com/js/) - This helped me for remembering js syntax and its feature.
+- [W3schools](https://www.w3schools.com/js/) - This helped me for remembering js syntax and its features.
 
 
 ## Author

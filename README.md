@@ -66,7 +66,7 @@ I learned some new css stuff like transform:transalate and its difference with p
 
 ## Author
 
-- Frontend Mentor - [@kristan-gitaccount](https://www.frontendmentor.io/profile/kristan-gitaccount)
+- Frontend Mentor - [@kristan-gitaccount](https://www.frontendmentor.io/profile/kristan014)
 
 
 
